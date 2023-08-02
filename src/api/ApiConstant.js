@@ -1,0 +1,33 @@
+export const BaseURL="https://winngoo.co.uk/api"
+
+export const EndPoint={
+    LOGIN:"/user/login",
+    RESETPASSWORD:"/user/reset-password",
+    LOGOUT:"/user/logout",
+    CATEGORIES:"/categories",
+    SUBCATEGORIES:"/sub-categories/",
+    REGISTERMERCHENT:"/user/register-merchent",
+    USER:"/user",
+    CHANGEPASSWORD:"/user/change-password",
+    ADDRESS:"/user/profile/address",
+    PROFILEIMAGE:"/user/profile/image",
+    BANKDETAIL:"/user/bank-detail",
+    BUSINESSDETAIL:"/user/merchent/business-detail",
+    MERCHENTBUSINESSDETAIL:"/merchant/business-detail",
+    REFERFREIND:"/refer-friends",
+    NEWSLETTER:"/newsletter",
+    NEWS:"/page/news",
+    PRIVACYPOLICY:"/page/privacy-policy",
+    TERMCONDITION:"/page/terms-and-conditions",
+    ABOUT:"/page/about",
+    FAQ:"/page/faq",
+    MERCHANTTERMCONDITION:"/page/merchant-terms-and-conditions",
+   FRANCHISES :"/merchant/franchises",
+  MERCHENTTAGLINE:"/merchant/tagline/",
+  MERCHENTTAGLINELIST:"/merchant/tagline",
+  WINNGOOCARDDETAIL:"/member/winngoo-card",
+  REFERRALTRANSACTION:"/referral-transactions",
+TRANSACTIONHISTORY :"/merchant/transaction-history",
+MEMBERDETAILINTERFACE:"/member-detail",
+MEMBERREGISTER:"/user/register-member"
+}

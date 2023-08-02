@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "asset/fonts/GERALDINE PERSONAL USE.ttf",
+      "sha1": "b98ba540ed91b54954e03edd8af35132b72c3d2f"
+    },
+    {
+      "path": "asset/fonts/LittleLordFontleroyNF.ttf",
+      "sha1": "6d19f4502d3e1956b38945b408e0c638d12c52dd"
+    },
+    {
+      "path": "asset/fonts/Precious.ttf",
+      "sha1": "5c1c06d3ba54c06c62a580af53026fdc651c71f3"
+    }
+  ]
+}
